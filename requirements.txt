@@ -46,7 +46,7 @@ easyocr==1.6.2
 entrypoints==0.3
 et-xmlfile==1.1.0
 experta==1.9.4
-Fiona @ file:///C:/Users/Vinay/Downloads/Fiona-1.8.21-cp38-cp38-win_amd64.whl
+Fiona @ path/to//Fiona-1.8.21-cp38-cp38-win_amd64.whl
 Flask==2.0.0
 Flask-MySQLdb==0.2.0
 Flask-SQLAlchemy==2.5.1
